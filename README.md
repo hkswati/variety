@@ -1,1 +1,3 @@
 # variety
+
+Nothing in particular
