@@ -1,5 +1,6 @@
 // compile with: gcc -o maxpath maxpath.c -lm
 // give file as a command line argument: ./maxpath filename
+// ensure that input file has no empty lines
 
 #include <stdio.h>
 #include <sys/types.h>
